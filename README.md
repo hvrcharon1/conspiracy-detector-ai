@@ -81,5 +81,3 @@ All cases persist across sessions using the Claude artifact storage API (`window
 This tool is intended for informational and awareness purposes only. It does not constitute legal advice. If you believe you are in danger, contact appropriate authorities.
 
 ---
-
-Built with Claude AI · Anthropic
