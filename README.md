@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo-banner.svg" alt="Conspiracy Detection Engine logo" width="100%">
+</p>
+
 # 🕵️ Conspiracy Detection Engine (V2 — Large Scale)
 
 An AI-powered, multi-page conspiracy detection and personal safety intelligence platform built with React and Claude AI.
