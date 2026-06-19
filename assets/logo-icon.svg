@@ -1,0 +1,22 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="256" height="256" rx="44" fill="#0b1018"/>
+  <rect x="3" y="3" width="250" height="250" rx="41" fill="none" stroke="#1e293b" stroke-width="2"/>
+
+  <!-- Shield (protection) -->
+  <path d="M128,44 L184,69 L184,128 C184,172 159,198 128,213
+           C97,198 72,172 72,128 L72,69 Z"
+        fill="none" stroke="#cbd5e1" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Magnifying glass (detection) -->
+  <circle cx="118" cy="118" r="27" fill="none" stroke="#cbd5e1" stroke-width="7"/>
+  <line x1="137" y1="137" x2="156" y2="156" stroke="#cbd5e1" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- Detected pattern: small actor network inside the lens -->
+  <line x1="108" y1="109" x2="128" y2="109" stroke="#64748b" stroke-width="2.2"/>
+  <line x1="108" y1="109" x2="118" y2="129" stroke="#64748b" stroke-width="2.2"/>
+  <line x1="128" y1="109" x2="118" y2="129" stroke="#64748b" stroke-width="2.2"/>
+  <circle cx="108" cy="109" r="3.6" fill="#cbd5e1"/>
+  <circle cx="128" cy="109" r="3.6" fill="#cbd5e1"/>
+  <circle cx="118" cy="129" r="4.4" fill="#b45309"/>
+</svg>
